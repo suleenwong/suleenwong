@@ -7,7 +7,7 @@ I am a Data Scientist with a Ph.D in Mechanical Engineering.
 I am currently working with:
 - :computer: SQL / PostgreSQL / MySQL
 - :computer: Python
-- :sparkler: Tableau
+- :computer: Tableau
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
