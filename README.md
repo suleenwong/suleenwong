@@ -7,7 +7,7 @@ I am a Data Scientist with a Ph.D in Mechanical Engineering.
 I am currently working with:
 - :computer: SQL / PostgreSQL / MySQL
 - :computer: Python
-- :computer: Tableau
+- :computer: <a href="https://public.tableau.com/app/profile/su.leen.wong" target="blank">Tableau</a>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
