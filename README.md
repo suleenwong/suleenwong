@@ -2,7 +2,7 @@
 
 I am a Data Analyst/Scientist with a Ph.D in Mechanical Engineering.
 
-<p>I am currently honing my skills on :eight_spoked_asterisk: Data Analytics, :eight_spoked_asterisk: and :eight_spoked_asterisk: Data Visualization projects.</p>
+<p>I am currently honing my skills on :eight_spoked_asterisk: Data Analytics, :eight_spoked_asterisk: Data Visualization and :eight_spoked_asterisk: Machine Learning projects.</p>
 
 I am currently working with:
 - :computer: SQL / PostgreSQL / MySQL / SQLite
