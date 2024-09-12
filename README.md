@@ -8,7 +8,9 @@ I am currently working with:
 - :computer: Python
 - :computer: SQL
 - :computer: Power BI
-- :computer: <a href="https://public.tableau.com/app/profile/suleenwong" target="blank">Tableau</a>
+- :computer: Apache Airflow
+- :computer: AWS
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
